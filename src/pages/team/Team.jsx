@@ -51,7 +51,7 @@ import Soumya from "./Assets/Coordinator24/soumya.jpg";
 
 
 //Team Leads 24-25
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 // import Design from "./TeamLeads/DesignTeamLeads.json"
 // import Kritika from "./Assets/TeamLeads/Designing/kritika.jpg"
 // import Tania from "./Assets/TeamLeads/Designing/tania.jpg"

@@ -61,19 +61,16 @@
     object-fit: contain;
   }
   .starfield{
+    display: none;
     left: 1.5%;
     top: 5%;
   }
 }
-@media screen and (max-width:430px) {
-  .starfield{
-    left: 2.5%;
-    top: 2.2%;
-  }
-}
 @media screen and (max-width:413px) {
   .starfield{
-    left: 0.5%;
-    top: 1.5%;
+    display: none;
+      left: 3.5%;
+      top: 5%;
+
   }
 }
